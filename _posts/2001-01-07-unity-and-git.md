@@ -1,7 +1,6 @@
 ---
 author: Katherine Harris 
 title: Using Unity and Git
-layout: post
 date:   2015-09-23 17:11:19
 repo: http://github.com/katvharris
 tags: 

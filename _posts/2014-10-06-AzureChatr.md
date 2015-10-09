@@ -1,7 +1,6 @@
 ---
 author: Nick Landry
 title: Azure Chatr - Mobile Cross Platform Chat App
-layout: post
 date:   2014-10-06
 link: http://www.ageofmobility.com/2014/10/06/azurechatr-building-a-cross-platform-chat-app-for-windows-ios-android/ 
 repo: https://github.com/activenick
