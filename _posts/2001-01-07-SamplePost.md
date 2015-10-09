@@ -5,9 +5,8 @@ layout: post
 date:   2015-09-23 17:11:19
 repo: http://github.com/timmyreilly
 tags: 
-- sample
-- microsoft 
-- 
+- sample 
+- Microsoft 
 
 link: http://timmyreilly.com
 ---

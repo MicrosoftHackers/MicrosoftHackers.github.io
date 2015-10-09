@@ -2,7 +2,8 @@
 author: Dave Voyles
 title: How to get hired as a student at Microsoft
 date: 2015-06-08
-tags: Students
+tags: 
+- Students
 link: http://www.davevoyles.com/how-do-students-and-recent-grads-get-hired-at-microsoft/
 ---
 
