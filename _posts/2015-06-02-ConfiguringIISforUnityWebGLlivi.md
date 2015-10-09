@@ -8,7 +8,7 @@ tags:
 - unity3d
 - gaming
 - webgl
-- IIS
+- iis
 
 link:	http://misslivirose.azurewebsites.net/blog/2015/06/02/configuring-iis-for-running-unity-exported-webgl-games/ 
 ---

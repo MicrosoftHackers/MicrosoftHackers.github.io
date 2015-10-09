@@ -8,7 +8,7 @@ tags:
 - unity3d 
 - gaming 
 - webgl 
-- Azure 
+- azure 
 - webapps
 
 link:	http://misslivirose.azurewebsites.net/blog/2015/06/03/hosting-a-unity-webgl-game-with-azure-webapps/ 

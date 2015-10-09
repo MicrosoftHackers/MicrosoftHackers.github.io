@@ -1,0 +1,40 @@
+Here is how we do the tags!
+
+Before we figure out a way to ignore case :)
+
+We'll do everything lower case!
+
+tags: 
+- sample 
+- microsoft 
+- unity 
+- gaming 
+- git
+- windows 
+- windows phone 
+- ios 
+- android 
+- azure 
+- cloud 
+- objective-c 
+- java 
+- c# 
+- mobile services 
+- authentication 
+- push notifications 
+- oauth 
+- gcm 
+- apns 
+- wns
+- flask
+- python
+- socketio
+- windows
+- environment
+- unity
+- game dev
+- unity3d
+- gaming 
+- azure
+- django
+- python
