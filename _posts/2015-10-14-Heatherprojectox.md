@@ -1,7 +1,6 @@
 --- 	
 author:	Heather Shapiro
 title:	Getting Started with Project Oxford
-layout:	post
 date:	2015-10-14
 repo:	
 tags:	
