@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Hack 101s"
+title:       "Microsoft Hackers"
 keywords:    "Getting Started, Hacking with Microsoft, Azure, Microsoft"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
