@@ -1,6 +1,6 @@
 --- 	
-author:	Guang Yang
-title:	Azure API Apps 101 with Guang Yang
+author:	Tim Reilly 
+title:	Minimal Flask Site on Azure 
 date:	2015-10-07
 repo: https://github.com/timmyreilly/babypython-azure	
 tags:	
