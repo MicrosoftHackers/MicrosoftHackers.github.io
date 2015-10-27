@@ -1,0 +1,11 @@
+From the bike photo:
+
+<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
+  <i class="fa fa-circle fa-stack-2x text-white"></i>
+  <i class="fa fa-bicycle fa-stack-1x text-orange"></i>
+</span>
+
+From the Little things in between the posts
+
+
+lalala remove dis: fa-icon: check-square-o, fa-icon: toggle-on, fa-icon: cloud-upload

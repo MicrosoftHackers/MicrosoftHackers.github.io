@@ -17,7 +17,7 @@ highlighter: pygments
 ### content configuration ###
 title:       "Microsoft Hackers"
 keywords:    "Getting Started, Hacking with Microsoft, Azure, Microsoft"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "A place to find all things Microsoft Hackathon!"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -26,13 +26,20 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
+  black:     '#000000'
+  white:     '#ffffff'
+  lightgray: '#D2D2D2'
+  darkgray:  '#505050'
+  blue:      '#0078D7'
+  green:     '#107C10'
+  purple:    '#5C2D91'
   turquoise: '#0fbfcf'
+  yellow:    '#FFB900'
+  orange:    '#D83B01'
+  red:       '#E81123'
+  magenta:   '#E40098'
+  teal:      '#008272'
+  
 
 kramdown:
   auto_ids:  false
