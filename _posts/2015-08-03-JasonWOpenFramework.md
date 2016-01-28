@@ -1,6 +1,6 @@
 --- 	
 author:	Jason Walters
-title:	openFrameworks for Kinect
+title:	Open Frameworks for Kinect
 date:	2015-08-03
 repo:	https://github.com/jasonrwalters/OF_Kinect/
 tags:	
