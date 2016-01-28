@@ -1,6 +1,6 @@
 ---	
 author:  Andy Wigley 
-title:	Window Dev Workshop
+title:	Windows Dev Workshop
 date:	2016-01-01
 repo:	https://github.com/Windows-Readiness/WinDevWorkshop/
 tags:	
