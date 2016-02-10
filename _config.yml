@@ -12,7 +12,7 @@ timezone: null
 lsi: false
 markdown: kramdown
 highlighter: pygments
-
+future: true
 
 ### content configuration ###
 title:       "Microsoft Hackers"
