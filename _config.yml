@@ -7,12 +7,13 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink : /:year 
 timezone: null
 lsi: false
 markdown: kramdown
 highlighter: pygments
 future: true
+baseurl: /
 
 ### content configuration ###
 title:       "Microsoft Hackers"
