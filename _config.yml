@@ -11,7 +11,7 @@ permalink : /:year
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge 
 future: true
 baseurl: /
 
