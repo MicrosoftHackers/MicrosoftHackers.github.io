@@ -8,6 +8,6 @@ tags:
 - onedrive 
 - api 
 - cloud
-link:	http://adinashanholtz.com/2015/10/12/getting-started-with-onedrive-api/
+link:	http://adinashanholtz.com/getting-started-with-onedrive-api/
 ---	
 description:	Getting Started with OneDrive from Adina

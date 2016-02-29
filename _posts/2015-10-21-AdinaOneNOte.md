@@ -7,6 +7,6 @@ tags:
 - onenote 
 - api 
 - cloud
-link:	http://adinashanholtz.com/2015/10/12/getting-started-with-the-onenote-api/
+link:	http://adinashanholtz.com/getting-started-with-the-onenote-api/
 ---	
 description:	OneNote API for YOU!
