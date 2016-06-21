@@ -30,7 +30,6 @@ Click on a tag to see relevant list of posts.
   {% endif %}
 {% endfor %}
 </ul>
-
 ---
 
 {% endfor %}

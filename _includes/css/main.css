@@ -22,7 +22,7 @@ html { box-sizing: border-box; }
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
   #{{id}} a { color: {{ fg }}; }
-  #{{id}} .sectiondivider { color: {{ bg }}; }
+  #{{id}} .sectiondivider { color: #262626; }
 {% endfor %}
 
 
@@ -172,6 +172,7 @@ nav ul li:hover, nav ul li.active {
   min-height:300px;
   padding:100px 0;
   background:url(img/bgnoise.png);
+  /* TODO: Change BG COLOR */
   /* generated noise from noisetexturegenerator.com */
 }
 
@@ -354,4 +355,27 @@ nav ul li:hover, nav ul li.active {
     -moz-column-count:    2;
     column-count:         2;
   }
+}
+
+.infoBox {
+  background-color: #fff;
+  padding: 20px;
+  color: #000;
+  text-align: center;
+}
+.infoBox a {
+  color: #0078D7 !important;
+  font-weight: bold;
+  text-decoration: none;
+}
+.infoBox a:hover {
+  color: #0078D7 !important;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.infoBox .header {
+  text-align:center;  
+  font-size: 35px;
+  margin-bottom: 15px;
+  color: #00a4ef;
 }
