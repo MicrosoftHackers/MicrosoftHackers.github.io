@@ -13,4 +13,3 @@ tags:
 - express 
 link:	http://timmyreilly.azurewebsites.net/connecting-your-azure-web-app-to-a-database-using-application-settings/ 
 ---	
-Azure Connection Strings for Web Apps 
